@@ -1,0 +1,7 @@
+#dependencies
+node_modules/
+
+# config files
+.env
+request.rest
+thunder-collection_leadmanager.json
